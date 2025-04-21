@@ -24,7 +24,7 @@ This project includes a shell script `your_program.sh` to simplify the build and
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/decoded-satapathy/git_lite.git
+git clone https://github.com/decoded-satapathy/git_by_java.git
 cd git_lite
 ```
 
@@ -69,7 +69,7 @@ Since `.sh` scripts do not run natively on Windows, follow these manual steps:
 
 1. **Clone the Repository**
 ```powershell
-git clone https://github.com/decoded-satapathy/git_lite.git
+git clone https://github.com/decoded-satapathy/git_by_java.git
 cd git_lite
 ```
 
