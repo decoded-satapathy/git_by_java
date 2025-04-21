@@ -194,8 +194,3 @@ Clones a remote Git repository.
 - The JAR is built to include all dependencies using the Maven Assembly Plugin.
 - The output directory is `/tmp/git_lite_build` on Unix-like systems, or `target/` on Windows.
 - You can customize the output directory by modifying the `-Ddir=...` argument in the script or command.
-
----
-
-## License
-MIT License
